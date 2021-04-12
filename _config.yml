@@ -5,10 +5,10 @@
 # --- 필수 설정--- #
 
 # 웹사이트 이름
-title: 제목
+title: 잔망
 
 # 사이트에 표시 될 닉네임
-author: 이름 
+author: 품라
 
 # --- 상단에 표시될 메뉴 이름들 --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # 사용하지 않으려면 코드 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
- email: "youremail@gmail.com"
+ # email: "youremail@gmail.com"
  # facebook: deanattali
  # github: daattali
- twitter: yourtwitterid
+ twitter: @kkigan_B
  # patreon: DeanAttali
  # youtube: c/daattali
 #  medium: yourname
@@ -69,7 +69,7 @@ social-network-links:
 
 # 포스트 하단에 활성화할 SNS 공유 아이콘입니다. 사용하지 않으려면 false 로 지정해주세요.
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: false
   vk: false
